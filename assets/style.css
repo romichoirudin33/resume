@@ -1,6 +1,9 @@
 .side-bar{
 	background-color: #eae9ee;
-	padding: 30;
+	padding-top: 30;
+	padding-right: 20;
+	padding-bottom: 30;
+	padding-left: 30;
 	-moz-box-shadow:    5px 0px 5px #ccc;
 	-webkit-box-shadow: 5px 0px 5px #ccc;
 	box-shadow:         5px 0px 5px #ccc;
